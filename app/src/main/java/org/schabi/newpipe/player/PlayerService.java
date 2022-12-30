@@ -21,7 +21,6 @@ package org.schabi.newpipe.player;
 
 import static org.schabi.newpipe.util.Localization.assureCorrectAppLanguage;
 
-import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Binder;
